@@ -64,3 +64,5 @@ docker build -t backend -f Dockerfile-backend .
 2. Execute the compose file:
 
 3. Access the application on browser with instance IP and port 3000
+
+![image](https://github.com/user-attachments/assets/e87bba06-dbe2-4159-85d0-2d30749a1e51)
