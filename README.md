@@ -1,6 +1,6 @@
 # Containerization of the Application: React Frontend, Node.js Backend, and MongoDB Database
 
-## To containerize a multi-component web application involving a React frontend, a Node.js backend, and a MongoDB database using Docker and Docker Compose. The containerization allows for consistent development environments, easy deployment, and scalability.
+To containerize a multi-component web application involving a React frontend, a Node.js backend, and a MongoDB database using Docker and Docker Compose. The containerization allows for consistent development environments, easy deployment, and scalability.
 
 Frontend repository: : https://github.com/Anand-1432/Techdome-frontend
 
