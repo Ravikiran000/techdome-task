@@ -11,7 +11,7 @@ services:
     depends_on:
       - rk-backend
     environment:
-      - REACT_APP_BASE_URL=http://65.0.19.153:5000/api
+      - REACT_APP_BASE_URL=http://15.206.194.119:5000/api
 
   rk-backend:
     image: backend
